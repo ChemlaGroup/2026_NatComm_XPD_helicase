@@ -1,0 +1,3 @@
+Set of MATLAB codes necessary for processing and analyzing data measuring the base pair scale dynamics of XPD helicase from Ferroplasma acidarmanus on DNA hairpins.
+
+The code is fully operational on MATLAB R2021a on Ubuntu Linux (24.04.04 LTS and earlier). The code is expected to be compatible with later versions of MATLAB, and is compatible in full or in part with some earlier versions. The code is also expected to run on other operating systems with a suitable version of MATLAB, after adjustment of file path format via the 'fbslash' global variable and the paths listed in the .config file. No non-standard hardware is required, and no installation is necessary beyond installing MATLAB.
